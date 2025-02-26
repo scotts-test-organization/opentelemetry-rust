@@ -1,4 +1,4 @@
-# OpenTelemetry Rust
+ # OpenTelemetry Rust
 
 The Rust [OpenTelemetry](https://opentelemetry.io/) implementation.
 
